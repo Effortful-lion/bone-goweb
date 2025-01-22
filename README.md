@@ -6,7 +6,7 @@
 
 ## 使用
 
-**vscode扩展**：直接安装后，在命令面板中搜索“extension.init”，然后选择下方“Create Go Web Project”就可以创建成功了。
+**vscode扩展**：扩展名：**bone-goweb** 。直接安装后，在命令面板中搜索“extension.init”，然后选择下方“Create Go Web Project”就可以创建成功了。
 
 **二次开发**：直接clone后，npm install安装依赖就可以
 
