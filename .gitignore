@@ -1,0 +1,5 @@
+# 编译输出目录
+dist/
+
+# Node.js 依赖
+node_modules/
